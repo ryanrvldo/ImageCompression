@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Image Compression</string>
+    <string name="compress">Compress</string>
+    <string name="decompress">Decompress</string>
+    <string name="elias_omega_code">Elias Omega Code</string>
+    <string name="levenstein_code">Levenstein Code</string>
+    <string name="image">Image</string>
+    <string name="not_available">N/A</string>
+    <string name="please_init_image">Sorry, please initialize your image first.</string>
+    <string name="please_choose_method">Please choose the compression method first.</string>
+    <string name="restart_process">Something wrong in the process. Please restart your process</string>
+    <string name="please_choose_decompression_method">Please choose the decompression method first.</string>
+    <string name="did_not_compressing">Sorry, you didn\'t decompress anything yet.</string>
+    <string name="dictionary_not_found">Sorry, dictionary from that file is not found. Please try again.</string>
+    <string name="process_finished">Process is finished.</string>
+    <string name="done">Done</string>
+    <string name="please_wait_process_still_in_progress">Please wait process still in progress.</string>
+    <string name="file">File:</string>
+    <string name="size">Size:</string>
+    <string name="select_method">Select method</string>
+    <string name="save_image">Save Image</string>
+</resources>
